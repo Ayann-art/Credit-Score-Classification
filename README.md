@@ -73,8 +73,7 @@ Credit-Score-Classification/
 
 ├── notebooks/
 
-│   
-└── credit_score_analysis.ipynb
+│   └── credit_score_analysis.ipynb
 
 │
 
