@@ -70,11 +70,14 @@ Fewer delayed payments are linked to better credit score categories
 Credit-Score-Classification/
 
 │
+
 ├── notebooks/
 
-│   └── credit_score_analysis.ipynb
+│   
+└── credit_score_analysis.ipynb
 
 │
+
 └── README.md
 
 ## ▶ How to Run the Project
