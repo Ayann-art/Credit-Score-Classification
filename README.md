@@ -68,9 +68,12 @@ Fewer delayed payments are linked to better credit score categories
 
 ## 📂 Project Structure
 Credit-Score-Classification/
+
 │
 ├── notebooks/
+
 │   └── credit_score_analysis.ipynb
+
 │
 └── README.md
 
